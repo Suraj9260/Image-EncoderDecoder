@@ -1,4 +1,4 @@
-<h1 align="center" id="title">ImageEncoderDecode</h1>
+<h1 align="center" id="title">Image-EncoderDecode</h1>
 
 <p id="description">This Streamlit application allows you to encode and decode messages within images. The encoded images can be used to discreetly convey information and the messages can be retrieved later using this app.</p>
 
@@ -58,6 +58,3 @@ pip install -r Requirements.txt
 streamlit run main.py
 ```
 
-<h2>💖Like my work?</h2>
-
-<p>contact:khanfurkan575@gmail.com<br>LinkedIn:https://www.linkedin.com/in/furkankhan16/</p>
