@@ -43,7 +43,7 @@ Upload an image with an encoded message and the app will extract and display the
 <p>1. Clone the repository:</p>
 
 ```
-git clone https://github.com/FurkanKhann/repository.git cd repository
+git clone https://github.com/Suraj9260/repository.git cd repository
 ```
 
 <p>2. Install the required packages:</p>
